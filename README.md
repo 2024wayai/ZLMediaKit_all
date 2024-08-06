@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/ZLMediaKit/ZLMediaKit/master/www/logo.png)
 
-简体中文 | [English](./README_en.md)   way
+简体中文 | [English](./README_en.md)   way1
 
 # 一个基于C++11的高性能运营级流媒体服务框架
 
